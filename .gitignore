@@ -1,0 +1,48 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Notes
+notes/
+
+#Modules
+node_modules/
+
+#Sectrets
+.env
+*.env
+
+# MISC
+*.txt
+*.pdf
+*.md 
+
+#Testing - Extension used to hold working files to while testing new code
+*.hold
+
+hello_jean.html
+tutorial.js
+javascript.svg
+public/vite.svg
+
